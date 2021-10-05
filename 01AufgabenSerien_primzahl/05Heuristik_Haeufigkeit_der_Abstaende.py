@@ -42,3 +42,4 @@ def heuristic(n):
 
 
 print(heuristic(distances(eratosthenes(100))))
+print(heuristic(distances(eratosthenes(50))))
