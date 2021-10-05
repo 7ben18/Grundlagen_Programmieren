@@ -23,6 +23,7 @@ def distances(primes):
 
 print(distances(eratosthenes(100)))
 
+
 def heuristic(n):
     liste = n
     haeufigkeit = []
