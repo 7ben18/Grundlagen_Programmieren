@@ -26,10 +26,20 @@ def is_prime(n):
         for i in range(2,n):
             if (n % i) == 0: # 4 % 2 == 0 -> 4 is not a prime!
                 return False
+            else:
+                return True
+
+def is_prime2(n):
+    if n < 1:
+        return False
+    if n > 2:
+        for i in range(2,n//2+1,1):
+            if (n % i) == 0:
+                return False
         else:
             return True
+    else:
+        return False
 
-print(is_prime(15))
-print(is_prime(21))
-print(is_prime(30))
+print(is_prime(10))
 print(is_prime(17))
