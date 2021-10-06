@@ -25,8 +25,10 @@ print(distances(eratosthenes(100)))
 
 
 def heuristic(n):
-    liste = n
     haeufigkeit = []
+    return n.count(2)
+
+    """
     num0 = 0
     for x in n:
         if x == 0:
@@ -41,6 +43,8 @@ def heuristic(n):
     haeufigkeit.append(num1_x)
     return haeufigkeit
 
-
+"""
 print(heuristic(distances(eratosthenes(100))))
-print(heuristic(distances(eratosthenes(50))))
+
+
+
