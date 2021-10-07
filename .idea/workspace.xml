@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ab40fb-fa5c-4bf8-bf12-e467b7a4b73b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/04primeabstand.py" beforeDir="false" afterPath="$PROJECT_DIR$/01AufgabenSerien_primzahl/04primeabstand.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/05Heuristik_Haeufigkeit_der_Abstaende.py" beforeDir="false" afterPath="$PROJECT_DIR$/01AufgabenSerien_primzahl/05Heuristik_Haeufigkeit_der_Abstaende.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/01AufgabenSerien_primzahl/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="87ab40fb-fa5c-4bf8-bf12-e467b7a4b73b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +158,7 @@
       <updated>1633460736256</updated>
       <workItem from="1633460737975" duration="147000" />
       <workItem from="1633460898131" duration="10000" />
-      <workItem from="1633500217626" duration="5039000" />
+      <workItem from="1633500217626" duration="5676000" />
     </task>
     <servers />
   </component>

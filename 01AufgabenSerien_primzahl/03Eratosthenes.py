@@ -6,7 +6,7 @@ def eratosthenes(n):
 
     for i in range(2,n,1):
         if i in zahlenliste:
-            primezahlen.append(i) 
+            primezahlen.append(i)
             zahlenliste.remove(i)
         for a in zahlenliste:
             if a % i == 0:
