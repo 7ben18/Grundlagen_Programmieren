@@ -34,9 +34,6 @@ def distances(primes):
 def distance_short(primes):
     return [primes[x+1] - primes[x] for x in range(len(primes)-1)]
 
-print(distances(eratosthenes(100)))
-print(distance_short(eratosthenes(50)))
-
 def check(n):
     liste = [1, 2, 2, 4, 2, 4, 2, 4, 6, 2, 6, 4, 2, 4, 6, 6, 2, 6, 4, 2, 6, 4, 6, 8]
     if liste == n:
@@ -44,4 +41,6 @@ def check(n):
     else:
         return False
 
+print(distances(eratosthenes(100)))
+print(distance_short(eratosthenes(50)))
 print(check(distances(eratosthenes(100))))

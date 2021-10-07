@@ -23,12 +23,27 @@ def distances(primes):
 
 print(distances(eratosthenes(100)))
 
-
 def heuristic(n):
-    haeufigkeit = []
-    return n.count(2)
+    prime_numbers = n
 
-    """
+    number_of_distances_list = [] # prime_numbers as set
+    number_of_distances_set = set(n)
+    for num in number_of_distances_set:
+        number_of_distances_list.append(num)
+    number_of_distances_list.sort() # Sorted ascending
+
+    counted_number = [] # counted numbers in prime_numbers
+    for i in number_of_distances_list:
+        count = prime_numbers.count(i)
+        counted_number.append(count)
+
+    result = zip(number_of_distances_list, counted_number)
+    return list(result)
+
+print(heuristic(distances(eratosthenes(100))))
+
+
+""" # erster Gedankengang
     num0 = 0
     for x in n:
         if x == 0:
@@ -44,7 +59,6 @@ def heuristic(n):
     return haeufigkeit
 
 """
-print(heuristic(distances(eratosthenes(100))))
 
 
 
