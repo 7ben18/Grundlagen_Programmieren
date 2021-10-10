@@ -25,7 +25,7 @@ all_primes(100)
 print(primeliste)
 
 def all_primes_comprehension(n):
-    return [i for i in range(2,n) if is_prime(i) == True]
+    return [i for i in range(2,n) if is_prime(i)]
 
 print(all_primes_comprehension(100))
 
