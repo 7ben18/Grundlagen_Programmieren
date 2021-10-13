@@ -16,6 +16,7 @@ def is_prime(n):
             return True
 
 primeliste = []
+
 def all_primes(n):
     for i in range(2,n):
         if is_prime(i) == True:

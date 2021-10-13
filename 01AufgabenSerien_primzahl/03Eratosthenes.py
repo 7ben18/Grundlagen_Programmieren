@@ -14,7 +14,7 @@ def eratosthenes(n):
 
     return primezahlen
 
-
+print(eratosthenes(100))
 
 """
 Erster Gedankengang!
@@ -29,4 +29,18 @@ for drei in zahlenliste:
         zahlenliste.remove(drei)
 """
 
-print(eratosthenes(100))
+def eratosthenes2(n):
+    zahlenliste = [z for z in range(2,n,1)]
+    primezahlen = []
+
+    for i in range(2,n,1):
+        if i in zahlenliste:
+            primezahlen.append(i)
+            zahlenliste.remove(i)
+        for a in zahlenliste:
+            if a % i == 0:
+                zahlenliste.remove(a)
+
+    return primezahlen
+
+print(eratosthenes2(100))
