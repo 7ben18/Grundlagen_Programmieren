@@ -13,6 +13,9 @@ def eratosthenes(n):
                 zahlenliste.remove(a)
 
     return primezahlen
+
+
+
 """
 Erster Gedankengang!
 

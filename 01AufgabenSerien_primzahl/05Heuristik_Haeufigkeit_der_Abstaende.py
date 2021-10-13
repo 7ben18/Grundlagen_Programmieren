@@ -42,23 +42,3 @@ def heuristic(n):
 
 print(heuristic(distances(eratosthenes(100))))
 
-
-""" # erster Gedankengang
-    num0 = 0
-    for x in n:
-        if x == 0:
-            num0 += 1
-    num0_x = (0, num0)
-    haeufigkeit.append(num0_x)
-    num1 = 0
-    for x in n:
-        if x == 1:
-            num1 += 1
-    num1_x = (1, num1)
-    haeufigkeit.append(num1_x)
-    return haeufigkeit
-
-"""
-
-
-
