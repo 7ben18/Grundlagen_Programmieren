@@ -16,7 +16,7 @@ print(len(matrix[0]))
 print(len(matrix[1]))
 
 def well_formed_matrix(m):
-    if len(m) < 1 or len(m[0]) != len(m[1]) or len(m[0]) < 1:
+    if not(len(m) < 1 or len(m[0]) != len(m[1]) or len(m[0]) < 1):
         return False
     else:
         return True
