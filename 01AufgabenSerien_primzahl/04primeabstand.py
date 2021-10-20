@@ -28,11 +28,15 @@ def distances(primes):
     for x in range(0,len(primes)-1,1):
         diff = (primes[x+1] - primes[x])
         #diff = abs(diff)
-        distance.append(diff)
+        distance.append(diff) #distance.append(primes[x+1] - primes[x])
     return distance
+
+print(distances(eratosthenes(100)))
 
 def distance_short(primes):
     return [primes[x+1] - primes[x] for x in range(len(primes)-1)]
+
+print(distance_short(eratosthenes(50)))
 
 def check(n):
     liste = [1, 2, 2, 4, 2, 4, 2, 4, 6, 2, 6, 4, 2, 4, 6, 6, 2, 6, 4, 2, 6, 4, 6, 8]
@@ -41,6 +45,4 @@ def check(n):
     else:
         return False
 
-print(distances(eratosthenes(100)))
-print(distance_short(eratosthenes(50)))
 print(check(distances(eratosthenes(100))))

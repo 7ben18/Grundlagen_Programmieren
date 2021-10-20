@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87ab40fb-fa5c-4bf8-bf12-e467b7a4b73b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Grundlagen_Programmieren.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Grundlagen_Programmieren.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01AufgabenSerien_primzahl/05Heuristik_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/01primzahlen.py" beforeDir="false" afterPath="$PROJECT_DIR$/01AufgabenSerien_primzahl/01primzahlen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/02primzahlen_liste.py" beforeDir="false" afterPath="$PROJECT_DIR$/01AufgabenSerien_primzahl/02primzahlen_liste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/04primeabstand.py" beforeDir="false" afterPath="$PROJECT_DIR$/01AufgabenSerien_primzahl/04primeabstand.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/05Heuristik_Haeufigkeit_der_Abstaende.py" beforeDir="false" afterPath="$PROJECT_DIR$/01AufgabenSerien_primzahl/05Heuristik_Haeufigkeit_der_Abstaende.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,51 +54,7 @@
       <recent name="C:\Users\Ben\OneDrive - FHNW\Module\MG 3 - Informatik &amp; Programmierung\gpr - Grundkompetenz Programmieren\gpr_GitHub\Grundlagen_Programmieren" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07List_Comprehension">
-    <configuration name="01Matrize_als_Liste_von_Listen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Grundlagen_Programmieren" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02AufgabenSerie_Matrizen" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02AufgabenSerie_Matrizen/01Matrize_als_Liste_von_Listen.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="01primzahlen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Grundlagen_Programmieren" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01AufgabenSerien_primzahl/01primzahlen.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.05Heuristik_2">
     <configuration name="02primzahlen_liste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,6 +69,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01AufgabenSerien_primzahl/02primzahlen_liste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04primeabstand" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grundlagen_Programmieren" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01AufgabenSerien_primzahl/04primeabstand.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05Heuristik_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grundlagen_Programmieren" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01AufgabenSerien_primzahl/05Heuristik_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05Heuristik_2" />
+        <item itemvalue="Python.05Heuristik_Haeufigkeit_der_Abstaende" />
+        <item itemvalue="Python.04primeabstand" />
         <item itemvalue="Python.07List_Comprehension" />
         <item itemvalue="Python.02primzahlen_liste" />
-        <item itemvalue="Python.01primzahlen" />
-        <item itemvalue="Python.05Heuristik_Haeufigkeit_der_Abstaende" />
-        <item itemvalue="Python.01Matrize_als_Liste_von_Listen" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +194,7 @@
       <workItem from="1634109680502" duration="1745000" />
       <workItem from="1634115331707" duration="862000" />
       <workItem from="1634709092112" duration="1577000" />
-      <workItem from="1634710842827" duration="5883000" />
+      <workItem from="1634710842827" duration="9371000" />
     </task>
     <servers />
   </component>
@@ -216,13 +214,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$05Heuristik_Haeufigkeit_der_Abstaende.coverage" NAME="05Heuristik_Haeufigkeit_der_Abstaende Coverage Results" MODIFIED="1634709540664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$05Heuristik_2.coverage" NAME="05Heuristik_2 Coverage Results" MODIFIED="1634720122640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$05Heuristik_Haeufigkeit_der_Abstaende.coverage" NAME="05Heuristik_Haeufigkeit_der_Abstaende Coverage Results" MODIFIED="1634719884803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01primzahlen.coverage" NAME="01primzahlen Coverage Results" MODIFIED="1634715914203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01Matrize_als_Liste_von_Listen.coverage" NAME="01Matrize_als_Liste_von_Listen Coverage Results" MODIFIED="1634115545660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AufgabenSerie_Matrizen" />
-    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$07List_Comprehension.coverage" NAME="07List_Comprehension Coverage Results" MODIFIED="1634716780159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$07List_Comprehension.coverage" NAME="07List_Comprehension Coverage Results" MODIFIED="1634717052306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$test.coverage" NAME="test Coverage Results" MODIFIED="1633866540052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
-    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04primeabstand.coverage" NAME="04primeabstand Coverage Results" MODIFIED="1633626622370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03Eratosthenes.coverage" NAME="03Eratosthenes Coverage Results" MODIFIED="1634114686784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04primeabstand.coverage" NAME="04primeabstand Coverage Results" MODIFIED="1634717056254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01Zeitmessung.coverage" NAME="01Zeitmessung Coverage Results" MODIFIED="1633862809240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AufgabenSerien_Zeitmessung" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$Doctests_in_01Matrize_als_Liste_von_Listen.coverage" NAME="Doctests in 01Matrize_als_Liste_von_Listen Coverage Results" MODIFIED="1634060428780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AufgabenSerie_Matrizen" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02Matrix_als_liste_von_liste_transponieren.coverage" NAME="02Matrix_als_liste_von_liste_transponieren Coverage Results" MODIFIED="1634114595063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AufgabenSerie_Matrizen" />

@@ -23,7 +23,6 @@ print(distances(eratosthenes(100)))
 
 def heuristic(n):
     prime_numbers = n
-
     number_of_distances_list = [] # prime_numbers as set
     number_of_distances_set = set(n)
     for num in number_of_distances_set:
@@ -39,4 +38,5 @@ def heuristic(n):
     return list(result)
 
 print(heuristic(distances(eratosthenes(100))))
+
 
