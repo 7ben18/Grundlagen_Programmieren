@@ -17,23 +17,28 @@ False
 is_
 """
 
+
 def is_prime(n):
     if n == 1:
         return False
     elif n == 2:
         return True
     else:
-        for i in range(2,n):
-            if (n % i) == 0: # 4 % 2 == 0 -> 4 is not a prime!
+        for i in range(2, n):
+            if (n % i) == 0:  # 4 % 2 == 0 -> 4 is not a prime!
                 return False
-            else:
-                return True
+            return True
+
+
+print(is_prime(10))
+print(is_prime(17))
+
 
 def is_prime2(n):
     if n < 1:
         return False
     if n > 2:
-        for i in range(2,n//2+1,1):
+        for i in range(2, n // 2 + 1, 1):
             if (n % i) == 0:
                 return False
         else:
@@ -41,5 +46,25 @@ def is_prime2(n):
     else:
         return False
 
-print(is_prime(10))
-print(is_prime(17))
+
+def is_prime3(n):
+    if n % 2 == 0:
+        return n == 2
+    i = 3
+    while i <= n / 2 and n % i != 0:
+        i = i + 1
+    return not (i <= n / 2)
+
+
+for x in range(2, 10):
+    print(x, "prime?", is_prime3(x))
+
+
+def is_prime4(n):
+    for i in range(2, n // 2 + 1):
+        if n % i == 0:
+            return False
+    return True
+
+for x in range(2,10):
+    if is_prime4(x): print(x)

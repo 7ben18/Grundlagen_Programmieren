@@ -33,5 +33,3 @@ print(all_primes_comprehension(100))
 
 
 
-
-

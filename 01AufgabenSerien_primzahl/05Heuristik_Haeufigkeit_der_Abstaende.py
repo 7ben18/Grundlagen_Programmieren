@@ -1,8 +1,6 @@
 def eratosthenes(n):
-    zahlenliste = []
+    zahlenliste = [z for z in range(2,n,1)]
     primezahlen = []
-    for z in range(2,n,1):
-        zahlenliste.append(z)
 
     for i in range(2,n,1):
         if i in zahlenliste:
