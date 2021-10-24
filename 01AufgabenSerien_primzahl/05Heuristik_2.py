@@ -21,13 +21,17 @@ def distances(primes):
 
 print(distances(eratosthenes(100)))
 
+# [(1, 1), (2, 8), (4, 7), (6, 7), (8, 1)]
 
 def heuristic2(n):
-    dict = dict{
-        n
+    thisdict = {
     }
-    return dict
+    for i in n:
+        x = 0
+        for y in n:
+            if y == i:
+                x += 1
+        thisdict[i] = x
+    return thisdict
 
-# in einer Dictionary hineinprogrammieren
-# {a:1, b:1, c:1}
-# {a:2, b:2, c:1}
+print(heuristic2(distances(eratosthenes(100))))
