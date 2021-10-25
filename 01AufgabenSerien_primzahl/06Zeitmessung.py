@@ -32,15 +32,15 @@ def heuristic2(n):
 
 
 
-import datetime
 import time
+start1 = time.perf_counter()
+print(heuristic2(distances(eratosthenes(1000))))
+end1 = time.perf_counter()
+zeit1 = end1 - start1
+print(zeit1) # output in sekunde
 
-start = time.perf_counter()
-
-#start = datetime.datetime.now()
-print(heuristic2(distances(eratosthenes(100))))
-end = time.perf_counter()
-zeit = end - start
-print(zeit) # output in sekunde
-#dur = (datetime.datetime.now() - start)
-#time_in_seconds = (dur.microseconds + 10 ** 6 * dur.total_seconds()) / cnt / 10 ** 6
+import datetime
+start2 = datetime.datetime.now()
+print(heuristic2(distances(eratosthenes(1000))))
+dur = (datetime.datetime.now() - start2)
+print(dur)
