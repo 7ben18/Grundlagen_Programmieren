@@ -33,11 +33,14 @@ def heuristic2(n):
 
 
 import datetime
-from datetime import cnt
+import time
 
-start = datetime.datetime.now()
+start = time.perf_counter()
+
+#start = datetime.datetime.now()
 print(heuristic2(distances(eratosthenes(100))))
-dur = (datetime.datetime.now() - start)
-time_in_seconds = (dur.microseconds + 10 ** 6 * dur.total_seconds()) / cnt / 10 ** 6
-
-print(dur)
+end = time.perf_counter()
+zeit = end - start
+print(zeit) # output in sekunde
+#dur = (datetime.datetime.now() - start)
+#time_in_seconds = (dur.microseconds + 10 ** 6 * dur.total_seconds()) / cnt / 10 ** 6
