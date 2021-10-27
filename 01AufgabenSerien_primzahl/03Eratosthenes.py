@@ -3,7 +3,6 @@ def eratosthenes(n):
     primezahlen = []
     for z in range(2,n,1):
         zahlenliste.append(z)
-
     for i in range(2,n,1):
         if i in zahlenliste:
             primezahlen.append(i)
@@ -30,15 +29,23 @@ for drei in zahlenliste:
 """
 
 def eratosthenes2(n):
+    # Erstellen der Zahlenliste bis n
     zahlenliste = [z for z in range(2,n,1)]
+    # Erstellen der leeren Liste fuer die Primzahlen
     primezahlen = []
-
+    # Eine weitere liste erstellen, von zahlen bis n mit schleifen
     for i in range(2,n,1):
+        # testen, ob die zahlen bis n in Zahlenliste sind
         if i in zahlenliste:
+            # Wenn vorhanden, in primzahlen hinzufuegen
             primezahlen.append(i)
+            # Danach auch zahl entfernen
             zahlenliste.remove(i)
+        # Schleife erstellen, um die vieflachen von zahlen n zu entfernen
         for a in zahlenliste:
+            # Wenn das vielfache module zahl 0 ergibt,
             if a % i == 0:
+                # wird die zahl von Zahlenliste entfernt
                 zahlenliste.remove(a)
 
     return primezahlen
