@@ -8,53 +8,22 @@ transpose([[1, 0], [0, 2], [3, 4]])
 [[1, 0, 3], [0, 2, 4]]
 """
 
-matrix = [[1,0,3],[0,2,4]]
-print(len(matrix))
-print(matrix[0])
+def transponse(n):
+    rows = len(n)
+    cols = len(n[0])
 
-liste = []
+    nums = []
+    for i in range(0, cols, 1):
+        for s in range(0, rows, 1):
+           sub = n[s][i]
+           nums.append(sub)
 
-def transponse(m):
-    zeile = len(m)
-    spalte = len(m[0])
-
-    liste = []
-    lenliste = len(liste)
-
-    for x in range(len(m)):
-        for i in m[x]:
-            liste.append(i)
-
-
-    transponsierte = []
-
-    slicing = liste[0:2]
-    transponsierte.append(slicing)
-
-    return transponsierte
+    matrix = []
+    for a in range(0,cols,1):
+        q = nums[a:a+rows]
+        matrix.append(q)
+    return matrix
 
 print(transponse([[1, 0, 3], [0, 2, 4]]))
+
 print(transponse([[1, 0], [0, 2], [3, 4]]))
-
-
-
-
-
-def transponse_shit(m):
-    zeile1 = []
-    zeile2 = []
-
-    for x in m[0]:
-        zeile1.append(x)
-
-    for y in m[1]:
-        zeile2.append(y)
-    transponse_tuple = zip(zeile1, zeile2)
-    transponse_liste = list(transponse_tuple)
-
-    liste = []
-    for x in range(len(transponse_liste)):
-        liste.append(list(transponse_liste[x]))
-    return liste
-
-#print(transponse_shit([[1, 0, 3], [0, 2, 4]]))

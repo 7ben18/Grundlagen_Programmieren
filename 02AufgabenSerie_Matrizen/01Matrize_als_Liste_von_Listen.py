@@ -10,26 +10,22 @@ well_formed_matrix([[0,0], [1,2]])
 True
 """
 
-matrix = [[1,0,3],[1,2,1]]
-print(len(matrix))
-print(len(matrix[0]))
-print(len(matrix[1]))
-
-def well_formed_matrix(m):
-    if not(len(m) < 1 or len(m[0]) != len(m[1]) or len(m[0]) < 1):
+def well_formed_matrix(n):
+    # checken, ob Anzahl der Zeilen < 2 ist.
+    if len(n) < 2:
         return False
-    else:
-        return True
+
+    # Anzahl Zeilen
+    rows = len(n)
+
+    # checken, ob Anzahl der Zeilen gleich der Anzahl Spalten entspricht
+    for i in range(0,rows):
+        if rows != len(n[i]):
+            return False
+        else:
+            return True
 
 print(well_formed_matrix([]))
 print(well_formed_matrix([[], []]))
 print(well_formed_matrix([[1], [1,2]]))
 print(well_formed_matrix([[0,0], [1,2]]))
-
-
-
-
-
-
-
-
