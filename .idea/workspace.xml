@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87ab40fb-fa5c-4bf8-bf12-e467b7a4b73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02AdventOfCode2019/02AoC2019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02AdventOfCode2019/02AoC2019_V2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02AdventOfCode2019/input02_2019" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02AdventOfCode2019/testinput" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AufgabenSerie_Matrizen/02Matrix_als_liste_von_liste_transponieren.py" beforeDir="false" afterPath="$PROJECT_DIR$/02AufgabenSerie_Matrizen/02Matrix_als_liste_von_liste_transponieren.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,6 +204,7 @@
       <workItem from="1636527987357" duration="10647000" />
       <workItem from="1637132719318" duration="7524000" />
       <workItem from="1637735198961" duration="11873000" />
+      <workItem from="1637747449988" duration="82000" />
     </task>
     <servers />
   </component>
