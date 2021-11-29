@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87ab40fb-fa5c-4bf8-bf12-e467b7a4b73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2015/01AdventOfCode2015/01AdventOfCode_2015_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2015/01AdventOfCode2015/01AdventOfCode_2015_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2015/01AdventOfCode2015/data_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2015/01AdventOfCode2015/data_2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2015/01AdventOfCode2015/testdata_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2015/01AdventOfCode2015/testdata_2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode2015/02AdventOfCode2015/02AdventOfCode2015_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,6 +214,7 @@
       <workItem from="1638202415821" duration="1739000" />
       <workItem from="1638204180751" duration="423000" />
       <workItem from="1638207370073" duration="2596000" />
+      <workItem from="1638210009779" duration="144000" />
     </task>
     <servers />
   </component>
@@ -240,9 +235,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03AdventOfCode2019_1.coverage" NAME="03AdventOfCode2019_1 Coverage Results" MODIFIED="1638169281590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03AdventOfCode2019" />
-    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AdventOfCode_2015_2.coverage" NAME="01AdventOfCode_2015_2 Coverage Results" MODIFIED="1638209847180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2015" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AdventOfCode_2015_2.coverage" NAME="01AdventOfCode_2015_2 Coverage Results" MODIFIED="1638210078890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2015" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02AdventOfCode2018_1.coverage" NAME="02AdventOfCode2018_1 Coverage Results" MODIFIED="1638204166809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2018/02AdventOfCode2018" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AdventOfCode2018_1.coverage" NAME="01AdventOfCode2018_1 Coverage Results" MODIFIED="1638174204706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2018/01AdventOfCode2018" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AdventOfCode_2015_1__1_.coverage" NAME="01AdventOfCode_2015_1 (1) Coverage Results" MODIFIED="1638210081845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2015/01AdventOfCode2015" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AdventOfCode_2015_2__1_.coverage" NAME="01AdventOfCode_2015_2 (1) Coverage Results" MODIFIED="1638210087603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2015/01AdventOfCode2015" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04AoC_2.coverage" NAME="04AoC_2 Coverage Results" MODIFIED="1636529062155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04AdventOfCode" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03Eratosthenes.coverage" NAME="03Eratosthenes Coverage Results" MODIFIED="1635322654708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02Matrix_als_liste_von_liste_transponieren.coverage" NAME="02Matrix_als_liste_von_liste_transponieren Coverage Results" MODIFIED="1637738634092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AufgabenSerie_Matrizen" />
