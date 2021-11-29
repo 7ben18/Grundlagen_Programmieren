@@ -2,53 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87ab40fb-fa5c-4bf8-bf12-e467b7a4b73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2019/03AdventOfCode2019/03AdventOfCode2019_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2019/03AdventOfCode2019/data_2019_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2019/03AdventOfCode2019/testdata_2019_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2020/06AdventOfCode2020/06AoC_20_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode2018/01AdventOfCode2018/data2018_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode2018/01AdventOfCode2018/testdata2018_1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AdventOfCode/01Day.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/01AdventOfCode2020/01Day.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AdventOfCode/expense_report" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/01AdventOfCode2020/expense_report" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AdventOfCode2019/01AoC2019" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2019/01AdventOfCode2019/01AoC2019" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AdventOfCode2019/01AoC_2019.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2019/01AdventOfCode2019/01AoC_2019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/01primzahlen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/01primzahlen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/02primzahlen_liste.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/02primzahlen_liste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/03Eratosthenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/03Eratosthenes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/03Eratosthenes_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/03Eratosthenes_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/04primeabstand.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/04primeabstand.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/05Heuristik_Haeufigkeit_der_Abstaende.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/05Heuristik_Haeufigkeit_der_Abstaende.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/05Heuristik_Haeufigkeit_der_Abstaende_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/05Heuristik_Haeufigkeit_der_Abstaende_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/06Zeitmessung.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/06Zeitmessung.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/07List_Comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/07List_Comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01AufgabenSerien_primzahl/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AdventOfCode/03AoC_20_02_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/02AdventOfCode2020/03AoC_20_02_part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AdventOfCode/03AoC_20_02_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/02AdventOfCode2020/03AoC_20_02_part2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AdventOfCode/password_list_part1" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/02AdventOfCode2020/password_list_part1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AdventOfCode/password_list_part2" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/02AdventOfCode2020/password_list_part2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AdventOfCode/password_testset_part1" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/02AdventOfCode2020/password_testset_part1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AdventOfCode/password_testset_part2" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/02AdventOfCode2020/password_testset_part2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AdventOfCode2019/02AoC2019.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2019/02AdventOfCode2019/02AoC2019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AdventOfCode2019/02AoC2019_V2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2019/02AdventOfCode2019/02AoC2019_V2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AdventOfCode2019/input02_2019" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2019/02AdventOfCode2019/input02_2019" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AdventOfCode2019/testinput" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2019/02AdventOfCode2019/testinput" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AufgabenSerie_Matrizen/01Matrize_als_Liste_von_Listen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/02AufgabenSerie_Matrizen/01Matrize_als_Liste_von_Listen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AufgabenSerie_Matrizen/02Matrix_als_liste_von_liste_transponieren.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/02AufgabenSerie_Matrizen/02Matrix_als_liste_von_liste_transponieren.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AufgabenSerie_Matrizen/03Matrix_flach_in_einer_Liste.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/02AufgabenSerie_Matrizen/03Matrix_flach_in_einer_Liste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AufgabenSerie_Matrizen/04Transponier_Funktion_erweitern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/02AufgabenSerie_Matrizen/04Transponier_Funktion_erweitern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02AufgabenSerie_Matrizen/05Matrix_als_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/02AufgabenSerie_Matrizen/05Matrix_als_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03AdventOfCode/03AdventOfCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/03AdventOfCode2020/03AdventOfCode2019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03AdventOfCode/AoC03_testset" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/03AdventOfCode2020/AoC03_testset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03AdventOfCode/AoC_20_03_dataset" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/03AdventOfCode2020/AoC_20_03_dataset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04AdventOfCode/04AoC.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/04AdventOfCode2020/04AoC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04AdventOfCode/04AoC_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/04AdventOfCode2020/04AoC_1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04AdventOfCode/04AoC_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/04AdventOfCode2020/04AoC_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04AdventOfCode/04AoC_2_data" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/04AdventOfCode2020/04AoC_2_data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04AdventOfCode/04AoC_2_testdata" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/04AdventOfCode2020/04AoC_2_testdata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04AdventOfCode/04_input" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/04AdventOfCode2020/04_input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04AdventOfCode/04_testinput" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/04AdventOfCode2020/04_testinput" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06AdventOfCode/06AoC_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2018/01AdventOfCode2018/01AdventOfCode2018_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06AdventOfCode/06AoC_20_Testdata" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/06AdventOfCode2020/06AoC_20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06AdventOfCode/06AoC_20_data" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020/06AdventOfCode2020/06AoC_20_Testdata" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,11 +49,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2019\01AdventOfCode2019" />
+      <recent name="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2018" />
       <recent name="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\Aufgaben_gpr" />
       <recent name="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren" />
       <recent name="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2019" />
-      <recent name="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2020" />
-      <recent name="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2018" />
     </key>
   </component>
   <component name="RunManager" selected="Python.03AdventOfCode2019_1">
@@ -253,7 +209,8 @@
       <workItem from="1637132719318" duration="7524000" />
       <workItem from="1637735198961" duration="11873000" />
       <workItem from="1637747449988" duration="82000" />
-      <workItem from="1638167888408" duration="2165000" />
+      <workItem from="1638167888408" duration="2865000" />
+      <workItem from="1638170779421" duration="10000" />
     </task>
     <servers />
   </component>
