@@ -5,21 +5,20 @@
 -- die beiden summen vergleichen, wenn die zweite summe groesser als die erste, + 1
 """
 
-with open("testdata_01") as f:
+with open("data_01") as f:
     zahlenliste = [int(x) for x in f.read().split("\n")]
     #print(zahlenliste)
 
 # Index sclicing 0 - 2, 1 - 3, 2 - 4 etc....
 
 list = []
-for i in range(len(zahlenliste)):
+for i in range(0,len(zahlenliste) - 2,1):
     list.append(zahlenliste[i:i+3])
-
-print(list)
+#print(list)
 
 cnt = 0
 for i in range(len(list) - 1):
-   #print(sum(list[i]))
+    #print(sum(list[i]))
     if sum(list[i + 1]) > sum(list[i]):
         cnt += 1
 print(cnt)
