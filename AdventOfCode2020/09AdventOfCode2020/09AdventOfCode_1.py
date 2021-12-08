@@ -12,10 +12,11 @@ for i in range(preamble,len(nums),1):
             if nums[a] != nums[b]:
                 if nums[a] + nums[b] == nums[i]:
                     validate = True
-    if validate == False:
+    if not validate:
         failure = nums[i]
         rangefailure = i
 
+print(failure)
 # task 2
 numslist = nums[0:rangefailure]
 list = []
