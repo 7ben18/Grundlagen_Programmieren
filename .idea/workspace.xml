@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87ab40fb-fa5c-4bf8-bf12-e467b7a4b73b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AdventOfCode2015/03AdventOfCode2015/03AdventOfCode_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode2015/03AdventOfCode2015/03data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode2015/03AdventOfCode2015/03testdata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode2020/15AdventOfCode2020/15AdventOfCode Testfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode2020/15AdventOfCode2020/15AdventOfCode_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode2015/02AdventOfCode2015/02AdventOfCode2015_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2015/02AdventOfCode2015/02AdventOfCode2015_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +62,14 @@
       <recent name="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2021\02AdventOfCode2021" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ben\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2020\15AdventOfCode2020" />
       <recent name="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2020" />
       <recent name="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2021" />
       <recent name="C:\Users\Ben\Documents\GitHub\Grundlagen_Programmieren" />
       <recent name="C:\Users\Ben\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2015\01AdventOfCode2015" />
-      <recent name="C:\Users\Ben\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2018\02AdventOfCode2018" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02AdventOfCode2015_2">
+  <component name="RunManager" selected="Python.15AdventOfCode Testfile">
     <configuration name="02AdventOfCode2015_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02AoC_20_02_part2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03AdventOfCode_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,34 +100,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode2020/02AdventOfCode2020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode2015/03AdventOfCode2015" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode2020/02AdventOfCode2020/02AoC_20_02_part2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="08AdventOfCode_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Grundlagen_Programmieren" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode2021/08AdventOfCode2021" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode2021/08AdventOfCode2021/08AdventOfCode_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode2015/03AdventOfCode2015/03AdventOfCode_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08AdventOfCode_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15AdventOfCode Testfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,12 +144,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode2021/08AdventOfCode2021" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode2020/15AdventOfCode2020" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2021\08AdventOfCode2021\08AdventOfCode_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode2020/15AdventOfCode2020/15AdventOfCode Testfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15AdventOfCode_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grundlagen_Programmieren" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode2020/15AdventOfCode2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode2020/15AdventOfCode2020/15AdventOfCode_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15AdventOfCode Testfile" />
+        <item itemvalue="Python.15AdventOfCode_1" />
+        <item itemvalue="Python.03AdventOfCode_1" />
         <item itemvalue="Python.02AdventOfCode2015_2" />
         <item itemvalue="Python.08AdventOfCode_2 (1)" />
-        <item itemvalue="Python.08AdventOfCode_1" />
-        <item itemvalue="Python.08AdventOfCode_2" />
-        <item itemvalue="Python.02AoC_20_02_part2" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +246,8 @@
       <workItem from="1638962863708" duration="2294000" />
       <workItem from="1639311924493" duration="1226000" />
       <workItem from="1639313175182" duration="1846000" />
+      <workItem from="1639325296050" duration="2153000" />
+      <workItem from="1639333418380" duration="2286000" />
     </task>
     <servers />
   </component>
@@ -290,6 +296,7 @@
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04AdventOfCode_1.coverage" NAME="04AdventOfCode_1 Coverage Results" MODIFIED="1638616747073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/04AdventOfCode2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02Matrix_als_liste_von_liste_transponieren.coverage" NAME="02Matrix_als_liste_von_liste_transponieren Coverage Results" MODIFIED="1638344837229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aufgaben_gpr/02AufgabenSerie_Matrizen" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03AdventOfCode_2.coverage" NAME="03AdventOfCode_2 Coverage Results" MODIFIED="1638532282666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/03AdventOfCode2021" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$15AdventOfCode_Testfile.coverage" NAME="15AdventOfCode Testfile Coverage Results" MODIFIED="1639335538832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2020/15AdventOfCode2020" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AdventOfCode2021_1.coverage" NAME="01AdventOfCode2021_1 Coverage Results" MODIFIED="1638347630737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/01AdventOfCode2021_1" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03Eratosthenes_2.coverage" NAME="03Eratosthenes_2 Coverage Results" MODIFIED="1635323607103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03AoC_20_02_part2.coverage" NAME="03AoC_20_02_part2 Coverage Results" MODIFIED="1636476835306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AdventOfCode" />
@@ -303,6 +310,7 @@
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$05Heuristik_Haeufigkeit_der_Abstaende.coverage" NAME="05Heuristik_Haeufigkeit_der_Abstaende Coverage Results" MODIFIED="1634719884803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01Zeitmessung.coverage" NAME="01Zeitmessung Coverage Results" MODIFIED="1633862809240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AufgabenSerien_Zeitmessung" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02Day.coverage" NAME="02Day Coverage Results" MODIFIED="1635928285695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AdventOfCode" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$15AdventOfCode_1.coverage" NAME="15AdventOfCode_1 Coverage Results" MODIFIED="1639334846963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2020/15AdventOfCode2020" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03AdventOfCode.coverage" NAME="03AdventOfCode Coverage Results" MODIFIED="1637133357740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03AdventOfCode" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02AdventOfCode_2.coverage" NAME="02AdventOfCode_2 Coverage Results" MODIFIED="1638432914741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/02AdventOfCode2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04primeabstand.coverage" NAME="04primeabstand Coverage Results" MODIFIED="1634717056254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
@@ -311,7 +319,7 @@
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02AoC2019.coverage" NAME="02AoC2019 Coverage Results" MODIFIED="1637138305048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AdventOfCode2019" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$05Heuristik_2.coverage" NAME="05Heuristik_2 Coverage Results" MODIFIED="1634720122640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02primzahlen_liste.coverage" NAME="02primzahlen_liste Coverage Results" MODIFIED="1634716480614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
-    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03AdventOfCode_1.coverage" NAME="03AdventOfCode_1 Coverage Results" MODIFIED="1638520747768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/03AdventOfCode2021" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03AdventOfCode_1.coverage" NAME="03AdventOfCode_1 Coverage Results" MODIFIED="1639326814157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2015/03AdventOfCode2015" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AoC_2019.coverage" NAME="01AoC_2019 Coverage Results" MODIFIED="1638169005957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AdventOfCode2019" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$08AdventOfCode_1_1.coverage" NAME="08AdventOfCode_1_1 Coverage Results" MODIFIED="1638957279893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/08AdventOfCode2021" />
   </component>
