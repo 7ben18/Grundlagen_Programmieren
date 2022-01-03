@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87ab40fb-fa5c-4bf8-bf12-e467b7a4b73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PracticePython/01Character_Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePython/02Odd_or_Even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePython/03List_less_than_ten.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePython/04divisors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePython/05list_overlap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonmuster/02Rechteck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonmuster/03Leeres_Quadrat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythonmuster/04Pyramide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pythontricks/Datentyp/01Datentypen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/01primzahlen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben_gpr/01AufgabenSerien_primzahl/01primzahlen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Datentyp/01Datentypen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonmuster/01Quadrat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Enumerate/01Enumerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythontricks/Enumerate/01Enumerate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Enumerate/02Enumerate_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythontricks/Enumerate/02Enumerate_dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Funktion/01Funktion_kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythontricks/Funktion/01Funktion_kwargs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Zuweisungen/01Zuweisung_mit_if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythontricks/Zuweisungen/01Zuweisung_mit_if_else.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +74,8 @@
       <recent name="C:\Users\Ben\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2015\01AdventOfCode2015" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05list_overlap">
-    <configuration name="01Character_Input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04Pyramide">
+    <configuration name="01Quadrat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,12 +83,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonmuster" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePython/01Character_Input.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonmuster/01Quadrat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02Odd_or_Even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02Rechteck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonmuster" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePython/02Odd_or_Even.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonmuster/02Rechteck.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03List_less_than_ten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03Leeres_Quadrat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonmuster" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePython/03List_less_than_ten.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonmuster/03Leeres_Quadrat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04divisors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04Pyramide" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,12 +149,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonmuster" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePython/04divisors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonmuster/04Pyramide.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04Pyramide" />
+        <item itemvalue="Python.03Leeres_Quadrat" />
+        <item itemvalue="Python.02Rechteck" />
+        <item itemvalue="Python.01Quadrat" />
         <item itemvalue="Python.05list_overlap" />
-        <item itemvalue="Python.04divisors" />
-        <item itemvalue="Python.03List_less_than_ten" />
-        <item itemvalue="Python.02Odd_or_Even" />
-        <item itemvalue="Python.01Character_Input" />
       </list>
     </recent_temporary>
   </component>
@@ -252,6 +257,7 @@
       <workItem from="1640085230471" duration="47000" />
       <workItem from="1640156641282" duration="9837000" />
       <workItem from="1640168866895" duration="3814000" />
+      <workItem from="1641215243483" duration="2610000" />
     </task>
     <servers />
   </component>
@@ -285,8 +291,10 @@
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AdventOfCode2018_2_1.coverage" NAME="01AdventOfCode2018_2_1 Coverage Results" MODIFIED="1640166291539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2018/01AdventOfCode2018" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$10AdventOfCode_1.coverage" NAME="10AdventOfCode_1 Coverage Results" MODIFIED="1639148794671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/10AdventOfCode2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02AdventOfCode2018_1.coverage" NAME="02AdventOfCode2018_1 Coverage Results" MODIFIED="1638346368728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2018/02AdventOfCode2018" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04Pyramide.coverage" NAME="04Pyramide Coverage Results" MODIFIED="1641218537495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonmuster" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02AdventOfCode2015_1.coverage" NAME="02AdventOfCode2015_1 Coverage Results" MODIFIED="1638439584409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2015/02AdventOfCode2015" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$05Heuristik_Haeufigkeit_der_Abstaende_2__1_.coverage" NAME="05Heuristik_Haeufigkeit_der_Abstaende_2 (1) Coverage Results" MODIFIED="1635870511078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01Quadrat.coverage" NAME="01Quadrat Coverage Results" MODIFIED="1641215666971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonmuster" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$09AdventOfCode_1.coverage" NAME="09AdventOfCode_1 Coverage Results" MODIFIED="1638948508011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2020/09AdventOfCode2020" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04AoC_2.coverage" NAME="04AoC_2 Coverage Results" MODIFIED="1636529062155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04AdventOfCode" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AoC_2019.coverage" NAME="01AoC_2019 Coverage Results" MODIFIED="1638169005957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AdventOfCode2019" />
@@ -329,6 +337,7 @@
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$07AdventOfCode_1.coverage" NAME="07AdventOfCode_1 Coverage Results" MODIFIED="1638867089872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/07AdventOfCode2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02AdventOfCode_2.coverage" NAME="02AdventOfCode_2 Coverage Results" MODIFIED="1638432914741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/02AdventOfCode2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$05list_overlap.coverage" NAME="05list_overlap Coverage Results" MODIFIED="1640172149549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePython" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03Leeres_Quadrat.coverage" NAME="03Leeres_Quadrat Coverage Results" MODIFIED="1641217844772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonmuster" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03Matrix_flach_in_einer_Liste.coverage" NAME="03Matrix_flach_in_einer_Liste Coverage Results" MODIFIED="1637737492097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AufgabenSerie_Matrizen" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04AoC_1_1.coverage" NAME="04AoC_1_1 Coverage Results" MODIFIED="1636538059870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04AdventOfCode" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02Enumerate_comprehension.coverage" NAME="02Enumerate_dictionary Coverage Results" MODIFIED="1640161862532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Enumerate" />
@@ -336,6 +345,7 @@
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02primzahlen_liste.coverage" NAME="02primzahlen_liste Coverage Results" MODIFIED="1634716480614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02AoC_20_02_part2.coverage" NAME="02AoC_20_02_part2 Coverage Results" MODIFIED="1638955454706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2020/02AdventOfCode2020" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03List_less_than_ten.coverage" NAME="03List_less_than_ten Coverage Results" MODIFIED="1640171078507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePython" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02Rechteck.coverage" NAME="02Rechteck Coverage Results" MODIFIED="1641217295401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonmuster" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$06AdventOfCode_1.coverage" NAME="06AdventOfCode_1 Coverage Results" MODIFIED="1638785114013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/06AdventOfCode2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$15AdventOfCode_Testfile.coverage" NAME="15AdventOfCode Testfile Coverage Results" MODIFIED="1639335538832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2020/15AdventOfCode2020" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02Odd_or_Even.coverage" NAME="02Odd_or_Even Coverage Results" MODIFIED="1640170781472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePython" />

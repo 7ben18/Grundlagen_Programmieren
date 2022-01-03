@@ -5,7 +5,7 @@ ausser 1 und sich selbst.
 Um zu testen, ob eine ganze Zahl n ≥ 2 eine Primzahl ist, kann man für alle grundsätzlich geeigneten
 ganzen Zahlen t prüfen, ob t die Zahl n ganzzahlig teilt – d.h. es gibt eine ganze Zahl s so dass s · t = n –
 und aus dem Fund oder Nicht-Fund geeignete Schlüsse ziehen.
-Schreibe eine Python-Funktion is_prime(n) auf, die einen entsprechenden Wahrheitswert zurückgibt:
+Schreibe eine Pythontricks-Funktion is_prime(n) auf, die einen entsprechenden Wahrheitswert zurückgibt:
 is_prime(1)
 False
 is_prime(2)
