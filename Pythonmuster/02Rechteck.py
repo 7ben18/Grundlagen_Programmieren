@@ -4,4 +4,4 @@ def rechteck(laenge: int, breite: int) -> str:
 
 
 rechteck(5, 4)
-rechteck(10,5)
+rechteck(10, 5)

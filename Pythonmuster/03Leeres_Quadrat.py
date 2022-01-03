@@ -6,5 +6,5 @@ def leeres_quadrat(n):
             print("#" + (n - 2) * " " + "#")
 
 
-for a in range(1,5 + 1):
+for a in range(1, 5 + 1):
     leeres_quadrat(a)
