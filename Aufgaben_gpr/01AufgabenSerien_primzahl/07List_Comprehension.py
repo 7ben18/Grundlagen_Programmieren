@@ -5,8 +5,8 @@ lst2 = [x for x in range(10)]
 print(lst2)
 
 lst3 = ((2 * x for x in range(10)))
-print(lst3)
 
+print(lst3)
 lst4 = tuple((2 * x for x in range(10)))
 print(lst4)
 
