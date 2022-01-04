@@ -5,6 +5,7 @@ def leeres_quadrat(n):
         else:
             print("#" + (n - 2) * " " + "#")
 
+leeres_quadrat(10)
 
 for a in range(1, 5 + 1):
     leeres_quadrat(a)

@@ -4,4 +4,4 @@ def tannenbaum(hoehe, stammhoehe):
     for a in range(stammhoehe):
         print(" " * (hoehe - 1) + "#")
 
-tannenbaum(10,4)
+tannenbaum(7,4)

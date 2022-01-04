@@ -3,5 +3,5 @@ def rechteck(laenge: int, breite: int) -> str:
         print("#" * breite)
 
 
-rechteck(5, 4)
-rechteck(10, 5)
+rechteck(10, 12)
+

@@ -4,6 +4,5 @@ def muster(n):
     for _ in range(n):
         print("*" * n)
 
+muster(10)
 
-muster(2)
-muster(5)
