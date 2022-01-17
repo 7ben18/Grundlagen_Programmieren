@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="87ab40fb-fa5c-4bf8-bf12-e467b7a4b73b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A3.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A4.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A4_a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,29 +65,7 @@
       <recent name="C:\Users\Ben\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2015\01AdventOfCode2015" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gpr_pruefung_A3_a">
-    <configuration name="gpr_pruefung_A1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Grundlagen_Programmieren" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpr_pruefung_2021" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.gpr_pruefung_A4_a">
     <configuration name="gpr_pruefung_A3_a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,6 +80,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\Si Ben Tran\Documents\GitHub\Grundlagen_Programmieren\gpr_pruefung_2021\gpr_pruefung_A3_a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gpr_pruefung_A4_a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grundlagen_Programmieren" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpr_pruefung_2021" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A4_a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gpr_pruefung_A4_a" />
         <item itemvalue="Python.gpr_pruefung_A3_a" />
         <item itemvalue="Python.gpr_pruefung_A5_1" />
         <item itemvalue="Python.gpr_pruefung_A5" />
         <item itemvalue="Python.gpr_pruefung_A6" />
-        <item itemvalue="Python.gpr_pruefung_A1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +255,7 @@
       <workItem from="1641970776947" duration="6328000" />
       <workItem from="1642353691113" duration="4454000" />
       <workItem from="1642421333198" duration="5398000" />
-      <workItem from="1642428375222" duration="2788000" />
+      <workItem from="1642428375222" duration="6131000" />
     </task>
     <servers />
   </component>
@@ -362,6 +362,7 @@
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02AdventOfCode_1.coverage" NAME="02AdventOfCode_1 Coverage Results" MODIFIED="1638429007345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/02AdventOfCode2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01Character_Input.coverage" NAME="01Character_Input Coverage Results" MODIFIED="1640169419238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePython" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02Day.coverage" NAME="02Day Coverage Results" MODIFIED="1635928285695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AdventOfCode" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$gpr_pruefung_A4_a.coverage" NAME="gpr_pruefung_A4_a Coverage Results" MODIFIED="1642435596631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpr_pruefung_2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$03Eratosthenes_2.coverage" NAME="03Eratosthenes_2 Coverage Results" MODIFIED="1635323607103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
   </component>
 </project>
