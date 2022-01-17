@@ -11,7 +11,7 @@ print(is_prime(9))
 
 
 def next_prime(n):
-    num = n * 2 ** 2
+    num = n * 2**  2
     numlst = [x for x in range(1, num)]
 
     numlst = numlst[n:]
@@ -22,3 +22,13 @@ def next_prime(n):
 
 
 print(next_prime(8))
+print(next_prime(11))
+
+def next_prime2(n):
+    n = n + 1
+    while not is_prime(n):
+        n = n + 1
+    return n
+
+print(next_prime2(8))
+print(next_prime2(11))
