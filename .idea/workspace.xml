@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87ab40fb-fa5c-4bf8-bf12-e467b7a4b73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A6_datei" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A3.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A5.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A6.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,7 @@
       <recent name="C:\Users\Ben\Documents\GitHub\Grundlagen_Programmieren\AdventOfCode2015\01AdventOfCode2015" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gpr_pruefung_A6">
+  <component name="RunManager" selected="Python.gpr_pruefung_A5_1">
     <configuration name="gpr_pruefung_A1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,28 +83,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gpr_pruefung_A2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Grundlagen_Programmieren" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpr_pruefung_2021" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,6 +135,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="gpr_pruefung_A5_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grundlagen_Programmieren" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpr_pruefung_2021" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A5_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="gpr_pruefung_A6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Grundlagen_Programmieren" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gpr_pruefung_A5_1" />
+        <item itemvalue="Python.gpr_pruefung_A5" />
         <item itemvalue="Python.gpr_pruefung_A6" />
         <item itemvalue="Python.gpr_pruefung_A3" />
         <item itemvalue="Python.gpr_pruefung_A1 (1)" />
-        <item itemvalue="Python.gpr_pruefung_A5" />
-        <item itemvalue="Python.gpr_pruefung_A2" />
       </list>
     </recent_temporary>
   </component>
@@ -256,6 +258,7 @@
       <workItem from="1641970776947" duration="6328000" />
       <workItem from="1642353691113" duration="4454000" />
       <workItem from="1642421333198" duration="5398000" />
+      <workItem from="1642428375222" duration="1587000" />
     </task>
     <servers />
   </component>
@@ -274,21 +277,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/gpr_pruefung_2021/gpr_pruefung_A3.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$07AdventOfCode_2.coverage" NAME="07AdventOfCode_2 Coverage Results" MODIFIED="1638869963455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/07AdventOfCode2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$gpr_pruefung_A3.coverage" NAME="gpr_pruefung_A3 Coverage Results" MODIFIED="1642424423728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpr_pruefung_2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01_Matrizen.coverage" NAME="01Matrize_als_Liste_von_Listen Coverage Results" MODIFIED="1635874248739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AufgabenSerie_Matrizen" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$gpr_pruefung_A5_1.coverage" NAME="gpr_pruefung_A5_1 Coverage Results" MODIFIED="1642429972091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpr_pruefung_2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$07Diamant.coverage" NAME="07Diamant Coverage Results" MODIFIED="1641321023991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonmuster" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$Doctests_in_01Matrize_als_Liste_von_Listen.coverage" NAME="Doctests in 01Matrize_als_Liste_von_Listen Coverage Results" MODIFIED="1634060428780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02AufgabenSerie_Matrizen" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$02Matrix_als_liste_von_liste_transponieren.coverage" NAME="02Matrix_als_liste_von_liste_transponieren Coverage Results" MODIFIED="1638344837229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aufgaben_gpr/02AufgabenSerie_Matrizen" />
@@ -309,6 +302,7 @@
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$06Verkehrte_Pyramide.coverage" NAME="06Verkehrte_Pyramide Coverage Results" MODIFIED="1641320987079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonmuster" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$05Heuristik_Haeufigkeit_der_Abstaende_2__1_.coverage" NAME="05Heuristik_Haeufigkeit_der_Abstaende_2 (1) Coverage Results" MODIFIED="1635870511078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$09AdventOfCode_1.coverage" NAME="09AdventOfCode_1 Coverage Results" MODIFIED="1638948508011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2020/09AdventOfCode2020" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$gpr_pruefung_A6.coverage" NAME="gpr_pruefung_A6 Coverage Results" MODIFIED="1642428417912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpr_pruefung_2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04AoC_2.coverage" NAME="04AoC_2 Coverage Results" MODIFIED="1636529062155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04AdventOfCode" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$05Tannenbaum.coverage" NAME="05Tannenbaum Coverage Results" MODIFIED="1641320939254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pythonmuster" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AdventOfCode2021_2.coverage" NAME="01AdventOfCode2021_2 Coverage Results" MODIFIED="1638351462417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2021/01AdventOfCode2021_1" />
@@ -320,9 +314,9 @@
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AdventOfCode2018_1.coverage" NAME="01AdventOfCode2018_1 Coverage Results" MODIFIED="1638174204706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2018/01AdventOfCode2018" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04AdventOfCode_test.coverage" NAME="04AdventOfCode_test Coverage Results" MODIFIED="1639151357899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2019/04AdventOfCode2019" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01AdventOfCode_2015_2__1_.coverage" NAME="01AdventOfCode_2015_2 (1) Coverage Results" MODIFIED="1638210087603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2015/01AdventOfCode2015" />
-    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$gpr_pruefung_A5.coverage" NAME="gpr_pruefung_A5 Coverage Results" MODIFIED="1642358152725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpr_pruefung_2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04divisors.coverage" NAME="04divisors Coverage Results" MODIFIED="1640171331484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePython" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$04AdventOfCode_1.coverage" NAME="04AdventOfCode_1 Coverage Results" MODIFIED="1639151141077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode2019/04AdventOfCode2019" />
+    <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$gpr_pruefung_A5.coverage" NAME="gpr_pruefung_A5 Coverage Results" MODIFIED="1642429830247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpr_pruefung_2021" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$01Funktion_kwargs__1_.coverage" NAME="01Funktion_kwargs (1) Coverage Results" MODIFIED="1639561297843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Funktion" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$07List_Comprehension.coverage" NAME="07List_Comprehension Coverage Results" MODIFIED="1634717052306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
     <SUITE FILE_PATH="coverage/Grundlagen_Programmieren$test.coverage" NAME="test Coverage Results" MODIFIED="1633866540052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01AufgabenSerien_primzahl" />
