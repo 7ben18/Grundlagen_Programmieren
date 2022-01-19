@@ -1,6 +1,9 @@
-Auftrag Datum Kunde Artikel Stk-Preis Anzahl Bezahldatum Lieferdatum
-0815 23.4.2020 12345 50000 32.45 1 23.4.2020 27.4.2020
-0815 23.4.2020 12345 123 160.00 2 23.4.2020 27.4.2020
-4711 23.4.2020 3333 13246 65.15 2 25.4.2020 27.4.2020
-1234 23.4.2020 12345 3111 45.00 1 23.4.2020 25.4.2020
-6413 28.5.2020 12345 50000 32.45 2 30.5.2020 1.6.2020
+def collect_sales_data(file_name, customer_no):
+    with open(file_name) as f:
+        data = [x.strip().split() for x in f]
+        menge = 0
+        for y in data:
+            if customer_no == y[2]:
+                menge += y[5]
+    return menge
+print(collect_sales_data("gpr_pruefung_A6_datei", 12345))
