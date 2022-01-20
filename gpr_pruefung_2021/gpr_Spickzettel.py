@@ -23,4 +23,14 @@ def num_of_neighbours(grid, row, col):
 ## Durch itterieren und ersertzen (Step Funktion)
 
 
+
 # Einlesen von Daten
+## readline()
+
+## readlines()
+
+## strip() und split() in List Comprehension
+
+def read_input(file_name):
+    with open(file_name) as f:
+        return [list(x.strip()) for x in f] #
