@@ -7,3 +7,8 @@ def collect_sales_data(file_name, customer_no):
                 menge += y[5]
     return menge
 print(collect_sales_data("gpr_pruefung_A6_datei", 12345))
+
+
+with open("gpr_pruefung_A5_datei") as f:
+    x = [x.strip() for x in f]
+    print(x)

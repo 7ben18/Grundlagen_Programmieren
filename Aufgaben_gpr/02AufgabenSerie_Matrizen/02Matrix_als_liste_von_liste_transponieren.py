@@ -36,5 +36,5 @@ print(transponse2([[1, 0, 3], [0, 2, 4]]))
 
 def transponse3(n):
     return [[row[i] for row in n] for i in range(len(n[0]))]
-
 print(transponse3([[1, 0, 3], [0, 2, 4]]))
+# [[1, 0], [0, 2], [3, 4]]

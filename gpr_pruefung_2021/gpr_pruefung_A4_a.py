@@ -32,4 +32,5 @@ def step(grid):
                 new_grid[row][col] = grid[row][col]
     return new_grid
 
+
 print(step(grid))
