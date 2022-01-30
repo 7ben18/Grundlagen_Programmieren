@@ -1,2 +1,6 @@
 # Grundlagen_Programmieren
-### Advent of Struggle
+### Advent of Code
+### Codewars
+### PracticePython
+### Python Muster
+### GPR Pruefung
