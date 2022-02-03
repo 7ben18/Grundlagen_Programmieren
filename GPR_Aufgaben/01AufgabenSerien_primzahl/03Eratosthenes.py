@@ -51,3 +51,17 @@ def eratosthenes2(n):
     return primezahlen
 
 print(eratosthenes2(100))
+
+
+def eratosthenes3(n):
+    zahlenliste = [z for z in range(2,n,1)]
+    primezahlen = []
+    for i in range(2,n,1):
+        if i in zahlenliste:
+            primezahlen.append(i)
+            zahlenliste.remove(i)
+        for a in zahlenliste:
+            if a % i == 0:
+                zahlenliste.remove(a)
+    return primezahlen
+# [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
