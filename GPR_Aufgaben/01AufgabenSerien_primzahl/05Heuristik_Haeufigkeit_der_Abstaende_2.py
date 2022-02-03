@@ -33,5 +33,5 @@ def heuristic2(n):
                 x += 1
         thisdict[i] = x
     return thisdict
-
+# {1: 1, 2: 8, 4: 7, 6: 7, 8: 1}
 print(heuristic2(distances(eratosthenes(100))))
