@@ -28,7 +28,7 @@ print(flatten(Matrix1))
 
 def flatten2(Matrix):
     return tuple([len(Matrix), len(Matrix[0]), [y for i in range(len(Matrix)) for y in Matrix[i]]])
+print(Matrix1) # [[1, 0, 3], [0, 2, 4]]
+print(flatten2(Matrix1)) # 2, 3, [1, 0, 3, 0, 2, 4])
 
-print(flatten2(Matrix1))
-print(flatten2(Matrix2))
 
