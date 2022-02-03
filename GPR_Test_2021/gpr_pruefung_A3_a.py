@@ -41,5 +41,5 @@ def next_prime3(n):
     return n
 
 print("next_prime3")
-print(next_prime3(8))
-print(next_prime3(11))
+print(next_prime3(8)) # 11
+print(next_prime3(11)) # 13
