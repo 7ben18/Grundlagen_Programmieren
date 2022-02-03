@@ -2,6 +2,7 @@ import copy
 
 grid = ['..........', '.###.##...', '.....##...', '.......##.', '.......##.', '..........']
 
+# Game of Life, Nachbarn zaehlen
 def living_neighbours(grid,row,col):
     cnt = 0
     if 0 < row and grid[row-1][col] == "#": # Oben
@@ -19,6 +20,7 @@ print(living_neighbours(grid, 1, 2))
 print(living_neighbours(grid, 3, 1))
 
 
+# Step grid funktioniert nicht! (Teilpunkte)
 def step(grid):
     new_grid = grid.copy()
     for row in range(len(grid)):
