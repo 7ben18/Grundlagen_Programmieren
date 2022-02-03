@@ -12,7 +12,8 @@ After your function finds the needle it should return a message (as a string) th
 def find_needle(L: list) -> str:
     for index, value in enumerate(L):
         if value == "needle":
-            return "found the needle at position " +  str(index)
+            return "found the needle at position " + str(index)
+
 
 print(find_needle(['hay', 'junk', 'hay', 'hay', 'moreJunk', 'needle', 'randomJunk']))
 
