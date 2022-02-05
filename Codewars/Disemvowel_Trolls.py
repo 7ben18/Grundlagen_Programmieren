@@ -12,11 +12,12 @@ Note: for this kata y isn't considered a vowel.
 
 
 def voweltrolls(word: str) -> str:
-    vowels = ["a", "e", "i", "o", "u"]
-    word = word.lower()
+    vowels = ["a", "e", "i", "o", "u", "A", "E", "I", "O", "U"]
     for i in vowels:
         word = word.replace(i, "")
     return word
 
 
-print(voweltrolls("This website is for losers LOL!"))
+word = "This website is for losers LOL!"
+
+print(voweltrolls(word))
